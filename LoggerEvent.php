@@ -8,5 +8,4 @@ namespace BasicApp\LoggerEvent;
 
 class LoggerEvent extends BaseLoggerEvent
 {
-
 }
