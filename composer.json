@@ -1,0 +1,13 @@
+{
+    "name": "basic-app/logger-event",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BasicApp\\LoggerEvent\\" : ""
+        }
+    },
+    "require": {
+        "psr/log": "*",
+        "basic-app/event": "*"
+    }
+}
